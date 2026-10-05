@@ -1,0 +1,2 @@
+Control del Invernadero v1.6
+Incluye facturas con foto/OCR, abonado editable, periodos de pago, gastos editables, copias completas y restauración.
